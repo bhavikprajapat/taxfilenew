@@ -658,6 +658,11 @@ a:active {
   position: absolute;
   left: 10px;
 }
+.img_set_client{
+  height: 110px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -884,6 +889,33 @@ a:active {
 
 
   }
+     .drop_ourproduct {
+    position: absolute;
+    background-color: #3bb3c3;
+    color: white;
+    width: 100%;
+    font-weight: 500;
+    bottom: 0;
+    text-align: center;
+  }
+
+
+
+  .drop2_ourproduct {
+    position: absolute;
+    width: 80%;
+    justify-content: center;
+    bottom: 15%;
+    display: none;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.308);
+  }
+    .img_set_client{
+  height: 80px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -1113,6 +1145,33 @@ a:active {
 
 
   }
+   .drop_ourproduct {
+    position: absolute;
+    background-color: #3bb3c3;
+    color: white;
+    width: 100%;
+    font-weight: 500;
+    bottom: 0;
+    text-align: center;
+  }
+
+
+
+  .drop2_ourproduct {
+    position: absolute;
+    width: 80%;
+    justify-content: center;
+    bottom: 11%;
+    display: none;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.308);
+  }
+  .img_set_client{
+  height: 80px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -1326,7 +1385,7 @@ a:active {
     position: absolute;
     width: 80%;
     justify-content: center;
-    bottom: 16%;
+    bottom: 11%;
     display: none;
     color: white;
     text-align: center;
@@ -1552,7 +1611,7 @@ a:active {
     position: absolute;
     width: 80%;
     justify-content: center;
-    bottom: 16%;
+    bottom: 11%;
     display: none;
     color: white;
     text-align: center;
@@ -1810,7 +1869,7 @@ a:active {
     position: absolute;
     width: 80%;
     justify-content: center;
-    bottom: 16%;
+    bottom: 11%;
     display: none;
     color: white;
     text-align: center;
@@ -2058,7 +2117,7 @@ a:active {
     position: absolute;
     width: 80%;
     justify-content: center;
-    bottom: 16%;
+    bottom: 11%;
     display: none;
     color: white;
     text-align: center;

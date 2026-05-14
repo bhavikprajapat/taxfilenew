@@ -7,37 +7,37 @@ function MarqueeCom2() {
         <div className='d-flex justify-content-center align-items-center h-100 justify-content-between gap-5 mt-2 m-0'>
             <div className='card ms-5'>
                 <div className='card_section '>
-                    <img src={require('../image/logomarquee2/1760160598769_AffiliationsOne.png')} alt="" className='w-100 h-100' />
+                    <img src={require('../image/logomarquee2/1760160598769_AffiliationsOne.png')} alt="" className='img_set_client' />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761628906546_Narendra M.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761628906546_Narendra M.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1760680683064_G9 (1).png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1760680683064_G9 (1).png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761628484497_Amar Ghadage Patil.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761628484497_Amar Ghadage Patil.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761628682847_Anilkumar Vij.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761628682847_Anilkumar Vij.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761628709063_Chetan J. Bhavsar-1.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761628709063_Chetan J. Bhavsar-1.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761628751026_DIPAK C PATEL.jpg')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761628751026_DIPAK C PATEL.jpg')} className='img_set_client' alt="" />
                 </div>
             </div>
 
@@ -50,37 +50,37 @@ function MarqueeCom3() {
         <div className='d-flex justify-content-center align-items-center h-100 justify-content-between gap-5 mt-2 m-0'>
             <div className='card ms-5'>
                 <div className='card_section '>
-                    <img src={require('../image/logomarquee2/1761628983779_Shah Consultant.png')} alt="" className='w-100 h-100' />
+                    <img src={require('../image/logomarquee2/1761628983779_Shah Consultant.png')} alt="" className='img_set_client' />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761816313661_Hiteshkumar Bathwar.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761816313661_Hiteshkumar Bathwar.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761815908953_K. B. JAIN.jpg')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761815908953_K. B. JAIN.jpg')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761815920716_JAYSHREE GROVER (1).png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761815920716_JAYSHREE GROVER (1).png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761815920716_JAYSHREE GROVER.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761815920716_JAYSHREE GROVER.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761816110912_AARYA_LOGO.png')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761816110912_AARYA_LOGO.png')} className='img_set_client' alt="" />
                 </div>
             </div>
             <div className='card'>
                 <div className='card_section'>
-                    <img src={require('../image/logomarquee2/1761820706719_327155457_1210803286497537_8462825317718041698_n.jpg')} className='w-100 h-100' alt="" />
+                    <img src={require('../image/logomarquee2/1761820706719_327155457_1210803286497537_8462825317718041698_n.jpg')} className='img_set_client' alt="" />
                 </div>
             </div>
 
